@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="140">
-      <a href="https://abhimahajan-portfolio.netlify.app/" target="_blank">
+      <a href="" target="_blank">
         <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Portfolio" /><br/>
         <b>Portfolio</b>
       </a>
