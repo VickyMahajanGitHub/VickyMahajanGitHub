@@ -243,7 +243,8 @@ Here are some ideas to get you started:
 <h3>📊 GitHub Stats</h3>
 <hr style="width:30%; margin:auto;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VickyMahajanGitHub&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=VickyMahajanGitHub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600
+" alt="GitHub Stats" />
 <br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=VickyMahajanGitHub&theme=dark&hide_border=false" alt="GitHub Streak" />
 <br/>
