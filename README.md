@@ -97,7 +97,9 @@ Here are some ideas to get you started:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### 💻 Tech Stack
+
+<h3 align="center"> 💻 Tech Stack</h3>
+<hr style="width:30%; margin:auto;">
 
 #### 🧠 Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
