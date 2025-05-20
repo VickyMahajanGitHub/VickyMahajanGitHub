@@ -49,6 +49,19 @@ Here are some ideas to get you started:
         <b>Portfolio</b>
       </a>
     </td>
+
+  <td align="center" width="140">
+      <a href="https://project-management-five-gamma.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Project Management" /><br/>
+        <b>Project Management</b>
+      </a>
+    </td>
+
+  </tr>
+</table>
+
+
+<!--    
     <td align="center" width="140">
       <a href="https://randamgifsgenerator.netlify.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="GIF Generator" /><br/>
@@ -73,20 +86,14 @@ Here are some ideas to get you started:
         <b>Farehub</b>
       </a>
     </td>
-    <td align="center" width="140">
-      <a href="https://project-management-five-gamma.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Project Management" /><br/>
-        <b>Project Management</b>
-      </a>
-    </td>
+  
     <td align="center" width="140">
       <a href="https://study-notion-mern-stack.netlify.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Study Point" /><br/>
         <b>Study Notion</b>
       </a>
-    </td>
-  </tr>
-</table>
+    </td> 
+-->
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ECN8YH77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.vicky_mahajan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickymahajan-s55) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vickyworks50) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iVickyMahajan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@travlr_Mahajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vickyworks50@gmail.com) 
