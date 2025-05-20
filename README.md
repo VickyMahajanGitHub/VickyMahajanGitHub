@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     </td>
 
   <td align="center" width="140">
-      <a href="https://project-management-five-gamma.vercel.app/" target="_blank">
+      <a href="https://project-management-git-main-vicky-mahajans-projects.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Project Management" /><br/>
         <b>Project Management</b>
       </a>
