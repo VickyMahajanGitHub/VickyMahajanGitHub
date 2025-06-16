@@ -57,6 +57,13 @@ Here are some ideas to get you started:
       </a>
     </td>
 
+  <td align="center" width="140">
+      <a href="https://mern-stock-trading-platform-q7d3.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="40px" alt="Stock Monitoring" /><br/>
+        <b>Stock Monitoring Platform</b>
+      </a>
+    </td>
+
   </tr>
 </table>
 
