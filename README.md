@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VickyMahajanGitHub&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
+
+
+
   - 💻 Languages:Python, HTML5, CSS3, C, C++, JavaScript, Solidity...
   - ⚙️ Technologies/Frameworks: React.js, Next.js, Node.js, Express.js, Hardhat, Web3.js, Tailwind CSS, WebSocket.io, Redux...
   - 🛠️ Tools/Platforms: Git/GitHub, VS Code, Vercel, Prisma, Render, Railway, Hostinger, CI/CD, Arduino, Redis...
